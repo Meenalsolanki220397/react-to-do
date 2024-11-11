@@ -9,3 +9,12 @@ Currently, two official plugins are available:
 
 
 link to follow -> https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/
+
+
+
+This app supports following features
+1. Add new to do itmes
+2. delete todo items
+3. edit items
+4. mark items as completed
+5. keeping track of completed items
