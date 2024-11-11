@@ -13,7 +13,7 @@ link to follow -> https://www.freecodecamp.org/news/build-a-todo-app-from-scratc
 
 
 This app supports following features
-1. Add new to do itmes
+1. Add new todo items
 2. delete todo items
 3. edit items
 4. mark items as completed
